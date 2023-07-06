@@ -1,2 +1,1 @@
-# java-maven-app
-a simple java maven app
+# jenkins-docker-maven-java-webapp
